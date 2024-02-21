@@ -2,6 +2,7 @@ site_name: My Blog
 theme:
   name: material
 plugins:
-  - blog
+  - blog:
+      blog_dir: .
   - search
   - tags
