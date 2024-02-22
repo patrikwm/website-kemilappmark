@@ -1,5 +1,5 @@
 
-# Raw data of {dating}
+# Raw data of 1706-1707
 
 - **Reference Code**: SE/RA/420422/02/E/E XI/E XI e/3976
 - **Dating**: 1706-1707
