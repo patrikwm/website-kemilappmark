@@ -12,6 +12,11 @@ markdown_extensions:
   - pymdownx.snippets
   - pymdownx.superfences
 
+extra:
+  analytics:
+    provider: google
+    property: G-052BDJVD7W
+
 theme:
   name: material
   icon:
