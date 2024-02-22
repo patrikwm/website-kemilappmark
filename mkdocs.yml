@@ -57,6 +57,12 @@ plugins:
       blog_dir: .
   - search
   - tags
+  - redirects:
+      redirect_maps:
+        fi/home: index.md
+        en/1691-1691/maanselka: gpt/1691-1691/Maanselkä-bundle-gpt-sv.md
+        en/1692-1692/keminkyla: gpt/1692-1692/Keminkylä-bundle-gpt-sv.md
+        fi/1691-1691/enareby: gpt/1691-1691/Enareby-bundle-gpt-sv.md
 
 nav:
   - Home:
