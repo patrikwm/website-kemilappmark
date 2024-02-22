@@ -1,4 +1,5 @@
 site_name: Kemilappmark
+site_url: https://www.kemilappmark.se
 extra_css:
   - stylesheets/extra.css
 
