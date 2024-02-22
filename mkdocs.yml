@@ -107,6 +107,8 @@ plugins:
         fi/1694/index.md: index.md
         fi/1691/index.md: index.md
         sv/Policies/index.md: index.md
+        sv/home/index.md: index.md
+
 
 nav:
   - Home:
