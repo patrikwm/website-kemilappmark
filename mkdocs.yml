@@ -1,6 +1,16 @@
 site_name: Kemilappmark
 extra_css:
   - stylesheets/extra.css
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+
 theme:
   name: material
   icon:
@@ -45,11 +55,77 @@ plugins:
 nav:
   - Home:
     - "Blog": index.md
+
+
   - Raw:
     - raw/index.md
-    - "1699": raw/1699/index.md
-    - "1700": raw/1700/index.md
-    - "1701": raw/1701/index.md
-  - Gpt:
-    - gpt/index.md
-    - "1699": gpt/1699/index.md
+    - "1691-1691": raw/1691-1691/index.md
+    - "1692-1692": raw/1692-1692/index.md
+    - "1693-1693": raw/1693-1693/index.md
+    - "1694-1694": raw/1694-1694/index.md
+    - "1695-1695": raw/1695-1695/index.md
+    - "1696-1696": raw/1696-1696/index.md
+    - "1697-1697": raw/1697-1697/index.md
+    - "1698-1699": raw/1698-1699/index.md
+    - "1701-1705": raw/1701-1705/index.md
+    - "1703-1703": raw/1703-1703/index.md
+    - "1706-1707": raw/1706-1707/index.md
+    - "1710-1710": raw/1710-1710/index.md
+    - "1711-1712": raw/1711-1712/index.md
+    - "1713-1716": raw/1713-1716/index.md
+    - "1717-1720": raw/1717-1720/index.md
+    - "1720-1722": raw/1720-1722/index.md
+    - "1723-1728": raw/1723-1728/index.md
+    - "1729-1729": raw/1729-1729/index.md
+    - "1730-1730": raw/1730-1730/index.md
+    - "1731-1731": raw/1731-1731/index.md
+    - "1732-1732": raw/1732-1732/index.md
+    - "1733-1733": raw/1733-1733/index.md
+    - "1734-1734": raw/1734-1734/index.md
+    - "1735-1735": raw/1735-1735/index.md
+    - "1736-1736": raw/1736-1736/index.md
+    - "1737-1737": raw/1737-1737/index.md
+    - "1738-1738": raw/1738-1738/index.md
+    - "1739-1739": raw/1739-1739/index.md
+    - "1744-1744": raw/1744-1744/index.md
+    - "1745-1745": raw/1745-1745/index.md
+    - "1746-1746": raw/1746-1746/index.md
+    - "1747-1747": raw/1747-1747/index.md
+    - "1748-1748": raw/1748-1748/index.md
+    - "1749-1749": raw/1749-1749/index.md
+  # - Gpt:
+  #   - gpt/index.md
+  #   - "1691-1691": gpt/1691-1691/index.md
+  #   - "1692-1692": gpt/1692-1692/index.md
+  #   - "1693-1693": gpt/1693-1693/index.md
+  #   - "1694-1694": gpt/1694-1694/index.md
+  #   - "1695-1695": gpt/1695-1695/index.md
+  #   - "1696-1696": gpt/1696-1696/index.md
+  #   - "1697-1697": gpt/1697-1697/index.md
+  #   - "1698-1699": gpt/1698-1699/index.md
+  #   - "1701-1705": gpt/1701-1705/index.md
+  #   - "1703-1703": gpt/1703-1703/index.md
+  #   - "1706-1707": gpt/1706-1707/index.md
+  #   - "1710-1710": gpt/1710-1710/index.md
+  #   - "1711-1712": gpt/1711-1712/index.md
+  #   - "1713-1716": gpt/1713-1716/index.md
+  #   - "1717-1720": gpt/1717-1720/index.md
+  #   - "1720-1722": gpt/1720-1722/index.md
+  #   - "1723-1728": gpt/1723-1728/index.md
+  #   - "1729-1729": gpt/1729-1729/index.md
+  #   - "1730-1730": gpt/1730-1730/index.md
+  #   - "1731-1731": gpt/1731-1731/index.md
+  #   - "1732-1732": gpt/1732-1732/index.md
+  #   - "1733-1733": gpt/1733-1733/index.md
+  #   - "1734-1734": gpt/1734-1734/index.md
+  #   - "1735-1735": gpt/1735-1735/index.md
+  #   - "1736-1736": gpt/1736-1736/index.md
+  #   - "1737-1737": gpt/1737-1737/index.md
+  #   - "1738-1738": gpt/1738-1738/index.md
+  #   - "1739-1739": gpt/1739-1739/index.md
+  #   - "1744-1744": gpt/1744-1744/index.md
+  #   - "1745-1745": gpt/1745-1745/index.md
+  #   - "1746-1746": gpt/1746-1746/index.md
+  #   - "1747-1747": gpt/1747-1747/index.md
+  #   - "1748-1748": gpt/1748-1748/index.md
+  #   - "1749-1749": gpt/1749-1749/index.md

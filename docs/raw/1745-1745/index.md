@@ -1,0 +1,57 @@
+
+# Raw data of {dating}
+
+- **Reference Code**: SE/RA/420422/02/E/E XI/E XI e/4191
+- **Dating**: 1745-1745
+- **Remark**: Norrbottens län nr 28.
+- **Link**: [https://sok.riksarkivet.se/arkiv/A5GAIqXcCqoEIGWMZy1pI1](https://sok.riksarkivet.se/arkiv/A5GAIqXcCqoEIGWMZy1pI1)
+
+Följande filer är transkriberade med hjälp av Riksarkivets HTRFLOW AI. Den är sedan processad manuellt. Sidorna innehåller många fel men ger en generell känsla för vad som finns där.
+
+- [1745-1745 Sida 788](1745-Sida-788.md)
+- [1745-1745 Sida 789](1745-Sida-789.md)
+- [1745-1745 Sida 790](1745-Sida-790.md)
+- [1745-1745 Sida 791](1745-Sida-791.md)
+- [1745-1745 Sida 792](1745-Sida-792.md)
+- [1745-1745 Sida 793](1745-Sida-793.md)
+- [1745-1745 Sida 794](1745-Sida-794.md)
+- [1745-1745 Sida 795](1745-Sida-795.md)
+- [1745-1745 Sida 796](1745-Sida-796.md)
+- [1745-1745 Sida 797](1745-Sida-797.md)
+- [1745-1745 Sida 798](1745-Sida-798.md)
+- [1745-1745 Sida 799](1745-Sida-799.md)
+- [1745-1745 Sida 800](1745-Sida-800.md)
+- [1745-1745 Sida 801](1745-Sida-801.md)
+- [1745-1745 Sida 802](1745-Sida-802.md)
+- [1745-1745 Sida 803](1745-Sida-803.md)
+- [1745-1745 Sida 804](1745-Sida-804.md)
+- [1745-1745 Sida 805](1745-Sida-805.md)
+- [1745-1745 Sida 806](1745-Sida-806.md)
+- [1745-1745 Sida 807](1745-Sida-807.md)
+- [1745-1745 Sida 808](1745-Sida-808.md)
+- [1745-1745 Sida 809](1745-Sida-809.md)
+- [1745-1745 Sida 810](1745-Sida-810.md)
+- [1745-1745 Sida 811](1745-Sida-811.md)
+- [1745-1745 Sida 812](1745-Sida-812.md)
+- [1745-1745 Sida 813](1745-Sida-813.md)
+- [1745-1745 Sida 814](1745-Sida-814.md)
+- [1745-1745 Sida 815](1745-Sida-815.md)
+- [1745-1745 Sida 816](1745-Sida-816.md)
+- [1745-1745 Sida 817](1745-Sida-817.md)
+- [1745-1745 Sida 818](1745-Sida-818.md)
+- [1745-1745 Sida 819](1745-Sida-819.md)
+- [1745-1745 Sida 820](1745-Sida-820.md)
+- [1745-1745 Sida 821](1745-Sida-821.md)
+- [1745-1745 Sida 822](1745-Sida-822.md)
+- [1745-1745 Sida 823](1745-Sida-823.md)
+- [1745-1745 Sida 824](1745-Sida-824.md)
+- [1745-1745 Sida 825](1745-Sida-825.md)
+- [1745-1745 Sida 826](1745-Sida-826.md)
+- [1745-1745 Sida 827](1745-Sida-827.md)
+- [1745-1745 Sida 828](1745-Sida-828.md)
+- [1745-1745 Sida 829](1745-Sida-829.md)
+- [1745-1745 Sida 830](1745-Sida-830.md)
+- [1745-1745 Sida 831](1745-Sida-831.md)
+- [1745-1745 Sida 832](1745-Sida-832.md)
+- [1745-1745 Sida 833](1745-Sida-833.md)
+---

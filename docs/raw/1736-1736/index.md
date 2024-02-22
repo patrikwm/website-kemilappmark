@@ -1,0 +1,55 @@
+
+# Raw data of {dating}
+
+- **Reference Code**: SE/RA/420422/02/E/E XI/E XI e/4183
+- **Dating**: 1736-1736
+- **Remark**: Norrbottens län nr 19.
+- **Link**: [https://sok.riksarkivet.se/arkiv/q7mdKa524aAJoLdKMJcHd3](https://sok.riksarkivet.se/arkiv/q7mdKa524aAJoLdKMJcHd3)
+
+Följande filer är transkriberade med hjälp av Riksarkivets HTRFLOW AI. Den är sedan processad manuellt. Sidorna innehåller många fel men ger en generell känsla för vad som finns där.
+
+- [1736-1736 Sida 639](1736-Sida-639.md)
+- [1736-1736 Sida 640](1736-Sida-640.md)
+- [1736-1736 Sida 641](1736-Sida-641.md)
+- [1736-1736 Sida 642](1736-Sida-642.md)
+- [1736-1736 Sida 643](1736-Sida-643.md)
+- [1736-1736 Sida 644](1736-Sida-644.md)
+- [1736-1736 Sida 645](1736-Sida-645.md)
+- [1736-1736 Sida 646](1736-Sida-646.md)
+- [1736-1736 Sida 647](1736-Sida-647.md)
+- [1736-1736 Sida 648](1736-Sida-648.md)
+- [1736-1736 Sida 649](1736-Sida-649.md)
+- [1736-1736 Sida 650](1736-Sida-650.md)
+- [1736-1736 Sida 651](1736-Sida-651.md)
+- [1736-1736 Sida 652](1736-Sida-652.md)
+- [1736-1736 Sida 653](1736-Sida-653.md)
+- [1736-1736 Sida 654](1736-Sida-654.md)
+- [1736-1736 Sida 655](1736-Sida-655.md)
+- [1736-1736 Sida 656](1736-Sida-656.md)
+- [1736-1736 Sida 657](1736-Sida-657.md)
+- [1736-1736 Sida 658](1736-Sida-658.md)
+- [1736-1736 Sida 659](1736-Sida-659.md)
+- [1736-1736 Sida 660](1736-Sida-660.md)
+- [1736-1736 Sida 661](1736-Sida-661.md)
+- [1736-1736 Sida 662](1736-Sida-662.md)
+- [1736-1736 Sida 663](1736-Sida-663.md)
+- [1736-1736 Sida 664](1736-Sida-664.md)
+- [1736-1736 Sida 665](1736-Sida-665.md)
+- [1736-1736 Sida 666](1736-Sida-666.md)
+- [1736-1736 Sida 667](1736-Sida-667.md)
+- [1736-1736 Sida 668](1736-Sida-668.md)
+- [1736-1736 Sida 669](1736-Sida-669.md)
+- [1736-1736 Sida 670](1736-Sida-670.md)
+- [1736-1736 Sida 671](1736-Sida-671.md)
+- [1736-1736 Sida 672](1736-Sida-672.md)
+- [1736-1736 Sida 673](1736-Sida-673.md)
+- [1736-1736 Sida 674](1736-Sida-674.md)
+- [1736-1736 Sida 675](1736-Sida-675.md)
+- [1736-1736 Sida 676](1736-Sida-676.md)
+- [1736-1736 Sida 677](1736-Sida-677.md)
+- [1736-1736 Sida 678](1736-Sida-678.md)
+- [1736-1736 Sida 679](1736-Sida-679.md)
+- [1736-1736 Sida 680](1736-Sida-680.md)
+- [1736-1736 Sida 681](1736-Sida-681.md)
+- [1736-1736 Sida 682](1736-Sida-682.md)
+---
