@@ -59,10 +59,54 @@ plugins:
   - tags
   - redirects:
       redirect_maps:
-        fi/home: index.md
-        en/1691-1691/maanselka: gpt/1691-1691/Maanselkä-bundle-gpt-sv.md
-        en/1692-1692/keminkyla: gpt/1692-1692/Keminkylä-bundle-gpt-sv.md
-        fi/1691-1691/enareby: gpt/1691-1691/Enareby-bundle-gpt-sv.md
+        fi/home/index.md: index.md
+        en/1691-1691/maanselka/index.md: gpt/1691-1691/Maanselkä-bundle-gpt-sv.md
+        en/1692-1692/keminkyla/index.md: gpt/1692-1692/Keminkylä-bundle-gpt-sv.md
+        fi/1691-1691/enareby/index.md: gpt/1691-1691/Enareby-bundle-gpt-sv.md
+        fi/1692/Sompio-Kittilä-Sodankylä/index.md: index.md
+        sv/1692/index.md: index.md
+        fi/1694/kittilä/index.md: index.md
+        sv/1692/sompio-kittila-sodankyla/index.md: index.md
+        sv/1691/kittila/index.md: index.md
+        fi/1693/kittilä/index.md: index.md
+        fi/1691/Kittilä/index.md: index.md
+        en/1697-1697/index.md: index.md
+        fi/1697-1697/index.md: index.md
+        sv/1693/kittilä/index.md: index.md
+        sv/1692/Sompio-Kittilä-Sodankylä/index.md: index.md
+        sv/1691-1691/kitka/index.md: index.md
+        sv/1696-1696/index.md: index.md
+        sv/1691-1691/keminkyla/index.md: index.md
+        sv/1691/Kittilä/index.md: index.md
+        sv/1694/kittilä/index.md: index.md
+        en/1693-1693/index.md: index.md
+        sv/1691-1691/manselka/index.md: index.md
+        sv/1693-1693/index.md: index.md
+        en/1696-1696/index.md: index.md
+        fi/1696-1696/index.md: index.md
+        sv/1691-1691/kuolajarvi/index.md: index.md
+        fi/1693/kittila/index.md: index.md
+        fi/1691/kittila/index.md: index.md
+        sv/1693/index.md: index.md
+        sv/1694/kittila/index.md: index.md
+        en/1694-1694/index.md: index.md
+        fi/1694/kittila/index.md: index.md
+        fi/1694-1694/index.md: index.md
+        en/1691-1691/kittila-bundle/index.md: index.md
+        fi/1691-1691/kittila-bundle/index.md: index.md
+        en/1691-1691/index.md: index.md
+        fi/1692/sompio-kittila-sodankyla/index.md: index.md
+        fi/1691-1691/index.md: index.md
+        fi/1692-1692/index.md: index.md
+        en/1692-1692/index.md: index.md
+        sv/1694-1694/index.md: index.md
+        fi/1693-1693/index.md: index.md
+        sv/1693/kittila/index.md: index.md
+        sv/1691/index.md: index.md
+        fi/1693/index.md: index.md
+        fi/1694/index.md: index.md
+        fi/1691/index.md: index.md
+        sv/Policies/index.md: index.md
 
 nav:
   - Home:
