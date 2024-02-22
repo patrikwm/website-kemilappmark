@@ -1,4 +1,6 @@
 ---
+title: Domstolsprotokoll från Kemi Lappmark
+description: Första blogposten på www.kemilappmark.se
 draft: false 
 date: 2024-02-22
 categories:
