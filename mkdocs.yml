@@ -74,15 +74,15 @@ plugins:
         fi/1691-1691/index.md: gpt/1691-1691/index-fi.md
         fi/1691-1691/kittila-bundle/index.md: gpt/1691-1691/Kittilä-bundle-gpt-fi.md
         fi/1691/index.md: gpt/1691-1691/index-fi.md
-        fi/1691/kittila/index.md: index.md
-        fi/1691/Kittilä/index.md: index.md
-        sv/1691-1691/keminkyla/index.md: index.md
-        sv/1691-1691/kitka/index.md: index.md
-        sv/1691-1691/kuolajarvi/index.md: index.md
-        sv/1691-1691/manselka/index.md: index.md
-        sv/1691/index.md: index.md
-        sv/1691/kittila/index.md: index.md
-        sv/1691/Kittilä/index.md: index.md
+        fi/1691/kittila/index.md: gpt/1691-1691/Kittilä-bundle-gpt-fi.md
+        fi/1691/Kittilä/index.md: gpt/1691-1691/Kittilä-bundle-gpt-fi.md
+        sv/1691-1691/keminkyla/index.md: gpt/1691-1691/Sompio-Keminkylä-bundle-gpt-sv.md
+        sv/1691-1691/kitka/index.md: gpt/1691-1691/Kuolajärvi-Kitka-bundle-gpt-sv.md
+        sv/1691-1691/kuolajarvi/index.md: gpt/1691-1691/Kuolajärvi-Kitka-bundle-gpt-sv.md
+        sv/1691-1691/manselka/index.md: gpt/1691-1691/Maanselkä-bundle-gpt-sv.md
+        sv/1691/index.md: gpt/1691-1691/index-sv.md
+        sv/1691/kittila/index.md: gpt/1691-1691/Kittilä-bundle-gpt-sv.md
+        sv/1691/Kittilä/index.md: gpt/1691-1691/Kittilä-bundle-gpt-sv.md
 
         # 1692-1692
         en/1692-1692/index.md: gpt/1692-1692/index-raw.md
@@ -132,7 +132,7 @@ nav:
   - Gpt:
     - "Index": gpt/index.md
     - "1691-1691": 
-      - "Index": gpt/1691-1691/index.md
+      - "Index": gpt/1691-1691/index-sv.md
       - "Enareby": 
         - "Enare fi": gpt/1691-1691/Enareby-bundle-gpt-fi.md
         - "Enare sv": gpt/1691-1691/Enareby-bundle-gpt-sv.md
