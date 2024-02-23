@@ -11,6 +11,7 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences
+  - tables
 
 extra:
   analytics:
@@ -45,6 +46,7 @@ theme:
   features:
     #- navigation.sections          # Remove expansion and adds headers instead
     - navigation.instant
+    - toc.integrate 
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.top
@@ -71,7 +73,7 @@ plugins:
         fi/1691-1691/enareby/index.md: gpt/1691-1691/Enareby-bundle-gpt-fi.md
         fi/1691-1691/index.md: gpt/1691-1691/index-fi.md
         fi/1691-1691/kittila-bundle/index.md: gpt/1691-1691/Kittilä-bundle-gpt-fi.md
-        fi/1691/index.md: index.md
+        fi/1691/index.md: gpt/1691-1691/index-fi.md
         fi/1691/kittila/index.md: index.md
         fi/1691/Kittilä/index.md: index.md
         sv/1691-1691/keminkyla/index.md: index.md
@@ -125,7 +127,8 @@ plugins:
 nav:
   - Home:
     - "Blog": index.md
-
+  - Kyrkböcker:
+    - Lukutaitoiset 1721:1730: churchrecords/lukutaitoiset.md
   - Gpt:
     - "Index": gpt/index.md
     - "1691-1691": 
