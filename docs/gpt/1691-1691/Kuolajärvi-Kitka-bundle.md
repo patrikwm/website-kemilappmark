@@ -1,3 +1,4 @@
+```txt linenums="1"
 Anno 1691 den 12 Januari, höltz
 Laga tings medh Lapp allmogen af
 Kuolajärvi och Kitka byar, närwarande
@@ -48,3 +49,4 @@ i Hwar by, at the skaffa honom sin betalla
 ningh utan Längre uppehåld hoos wederbörande,
 som odisputerligen befinnes honom Kantola, skyldige
 wara eftter samwettet.
+```

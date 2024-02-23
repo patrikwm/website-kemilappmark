@@ -1,3 +1,4 @@
+```txt linenums="1"
 Kemi Lappmark
 Anno 1692 den 17 Februari höltz
 Laga tings i  Enareby Närwarande
@@ -42,3 +43,4 @@ them till Godh förlikningh, Men stode det intet
 till att hiälpa, så anstår samma twist
 och Kiäremåhl till nästa laga tings
 Anno.
+```

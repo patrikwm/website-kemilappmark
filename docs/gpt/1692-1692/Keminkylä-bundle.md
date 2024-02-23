@@ -1,3 +1,4 @@
+```txt linenums="1"
 Anno 1692 d. 24 Februari höltz
 Laga tings i Keminkylä Närwarande
 Cronones Befallningzman
@@ -60,3 +61,4 @@ eij kan Necka före, Alltså wart resolverat
 att Thomas betahlar dhen och Persson för
 Ofwannembde Reen 4 wågh eller 2 Riksdaler.
 in Specie
+```

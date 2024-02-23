@@ -1,3 +1,4 @@
+```txt linenums="1"
 Anno 1692 d. 26 Februari
 höltz Laga tings uti Kuolajärvi
 Närwarande Befallningzmannen
@@ -62,3 +63,4 @@ styckens afskaffande.
 Widh detta Tingställe blefwo nu inga
 Högmåls eller Andre tings saaker Angifne,
 utan warandes alt lyst och roligdt.
+```

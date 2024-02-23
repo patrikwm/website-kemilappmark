@@ -1,3 +1,4 @@
+```txt linenums="1"
 Anno 1691. den 15. Januari, höltz Laga
 tings I Kemi Lappmarker, i Sompio
 och Keminkylä, närwarande Crononess
@@ -79,3 +80,4 @@ Emellan Mårten Pehrsson och dess granne Jöns
 Larsson blifwer förord och Påhl Pelconen om Nils
 Perttunen, att Jänka och detha the i emellan,
 de oskiftte angieltagar de twista om.
+```

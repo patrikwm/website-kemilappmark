@@ -1,3 +1,4 @@
+```txt linenums="1"
 Anno 1692 den 29 Februari
 Hölltz Laga tings i Kitka by Närwarande
 Cronones Befallningz
@@ -130,3 +131,4 @@ rååmark skal wara tillfalle att boo och byggia,
 Skolandes bende Matts Åhrinen där af prastera
 och erläggia een tillbörlig Skatt till Kongl. May:ttz
 och Cronan.
+```

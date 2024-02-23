@@ -1,3 +1,4 @@
+```txt linenums="1"
 Anno 1691, den 4 Aprilis Höltz
 Laga tings medh Lappallmogen I
 Maanselkä, wederblårande Cronones
@@ -46,3 +47,4 @@ hafwer rättneteligen til at fordra.
 Sålunda af ofwanstående datis, wara ransakat,
 skärskådat, befunnit och afdömbdt, attesterar
 Upå Rättens Wägnar.
+```

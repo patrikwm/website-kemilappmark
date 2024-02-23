@@ -1,3 +1,4 @@
+```txt linenums="1"
 Kemi Lappmark
 Anno 1691. den 5 Januari höltz Laga tings
 I Kemi lappmark och Kittilä Marknad
@@ -85,3 +86,4 @@ Sikaniitty Men för det arbete hon änkan där
 på anlagt medelst rödiande, pröfwar Rätten
 skiäligt, att Erik Eriksson Henne derföre betalar
 Tree dahler Kopparmyntt.
+```

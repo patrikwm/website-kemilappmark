@@ -1,3 +1,4 @@
+```txt linenums="1"
 Anno 1692 den 22 Februari Höltz
 Laga tings medh Lappallmogen aff
 Sompio Kittilä och Sodankylä När
@@ -72,3 +73,4 @@ till dee swarade, att dhe  dess Gudi lofisintet
 nodste af någon Högmåls Saak, eij heller af nöHwe
 modre trätor eller twistigheeter.
 Anno.
+```

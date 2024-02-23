@@ -1,3 +1,4 @@
+```txt linenums="1"
 Anno 1692 den 3 Marty Haltz
 Laga tings i Maanselkä, Närwarande
 Cronones Befallningzman välbetrodde
@@ -139,3 +140,4 @@ der
 sålunda af ofwanstående Datis Törra ransakat, skänskådat,
 befunnit och afdömbdt, att chronor
 Erik höfdingh Brukbygg
+```

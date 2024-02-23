@@ -1,3 +1,4 @@
+```txt linenums="1"
 Anno 1691. den 22 Januari, höltz
 laga tings i Kemi lappmark och Enareby,
  närwarande Cronones Befallningzman,
@@ -25,3 +26,4 @@ continue, så längie the warit tillsammans,
 sampt alla Böönedagz Terminer opwachtat
 och för lapparne läsit af Molleri Postilla
 hwilket således ad notam fattadt blef.
+```
