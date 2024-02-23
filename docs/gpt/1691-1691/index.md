@@ -1,10 +1,11 @@
-# 1691
 
-Moderniserade texter av GTP-4.
+# Raw data of 1691-1691
 
-- [Enareby](Enareby-bundle-gpt-sv.md)
-- [Kittilä](Kittilä-bundle-gpt-sv.md)
-- [Kuolajärvi-Kitka](Kuolajärvi-Kitka-bundle-gpt-sv.md)
-- [Maanselkä](Maanselkä-bundle-gpt-sv.md)
-- [Sodankylä](Sodankylä-bundle-gpt-sv.md)
-- [Sompio-Keminkylä](Sompio-Keminkylä-bundle-gpt-sv.md)
+- **Reference Code**: SE/RA/420422/02/E/E XI/E XI e/3966
+- **Dating**: 1691-1691
+- **Remark**: Västerbottens län nr 2. Innehåller även protokoll från Gotlands och Norrbottens län.
+- **Link**: [https://sok.riksarkivet.se/arkiv/mbQFlRibjqcKJG2bX401Y1](https://sok.riksarkivet.se/arkiv/mbQFlRibjqcKJG2bX401Y1)
+
+Följande filer är transkriberade med hjälp av Riksarkivets HTRFLOW AI. Den är sedan processad manuellt. Sidorna innehåller många fel men ger en generell känsla för vad som finns där.
+
+---
