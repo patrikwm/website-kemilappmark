@@ -59,6 +59,7 @@ plugins:
   - tags
   - redirects:
       redirect_maps:
+        en/home/index.md: index.md
         en/1691-1691/index.md: gpt/1691-1691/index-raw.md
         en/1691-1691/kittila-bundle/index.md: gpt/1691-1691/Kittilä-bundle.md
         en/1691-1691/maanselka/index.md: gpt/1691-1691/Maanselkä-bundle.md
