@@ -118,24 +118,30 @@ nav:
     - "Index": gpt/index.md
     - "1691-1691": 
       - "Index": gpt/1691-1691/index.md
-      - "Enare fi": gpt/1691-1691/Enareby-bundle-gpt-fi.md
-      - "Enare sv": gpt/1691-1691/Enareby-bundle-gpt-sv.md
-      - "Enare raw": gpt/1691-1691/Enareby-bundle.md
-      - "Kittilä fi": gpt/1691-1691/Kittilä-bundle-gpt-fi.md
-      - "Kittilä sv": gpt/1691-1691/Kittilä-bundle-gpt-sv.md
-      - "Kittilä raw": gpt/1691-1691/Kittilä-bundle.md
-      - "Kuolajärvi / Kitka fi": gpt/1691-1691/Kuolajärvi-Kitka-bundle-gpt-fi.md
-      - "Kuolajärvi / Kitka sv": gpt/1691-1691/Kuolajärvi-Kitka-bundle-gpt-sv.md
-      - "Kuolajärvi / Kitka raw": gpt/1691-1691/Kuolajärvi-Kitka-bundle.md
-      - "Maanselkä fi": gpt/1691-1691/Maanselkä-bundle-gpt-fi.md
-      - "Maanselkä sv": gpt/1691-1691/Maanselkä-bundle-gpt-sv.md
-      - "Maanselkä raw": gpt/1691-1691/Maanselkä-bundle.md
-      - "Sodankylä fi": gpt/1691-1691/Sodankylä-bundle-gpt-fi.md
-      - "Sodankylä sv": gpt/1691-1691/Sodankylä-bundle-gpt-sv.md
-      - "Sodankylä raw": gpt/1691-1691/Sodankylä-bundle.md
-      - "Sompio-Keminkylä fi": gpt/1691-1691/Sompio-Keminkylä-bundle-gpt-fi.md
-      - "Sompio-Keminkylä sv": gpt/1691-1691/Sompio-Keminkylä-bundle-gpt-sv.md
-      - "Sompio-Keminkylä raw": gpt/1691-1691/Sompio-Keminkylä-bundle.md
+      - "Enareby": 
+        - "Enare fi": gpt/1691-1691/Enareby-bundle-gpt-fi.md
+        - "Enare sv": gpt/1691-1691/Enareby-bundle-gpt-sv.md
+        - "Enare raw": gpt/1691-1691/Enareby-bundle.md
+      - "Kittilä":
+        - "Kittilä fi": gpt/1691-1691/Kittilä-bundle-gpt-fi.md
+        - "Kittilä sv": gpt/1691-1691/Kittilä-bundle-gpt-sv.md
+        - "Kittilä raw": gpt/1691-1691/Kittilä-bundle.md
+      - "Kuolajärvi / Kitka":
+        - "Kuolajärvi / Kitka fi": gpt/1691-1691/Kuolajärvi-Kitka-bundle-gpt-fi.md
+        - "Kuolajärvi / Kitka sv": gpt/1691-1691/Kuolajärvi-Kitka-bundle-gpt-sv.md
+        - "Kuolajärvi / Kitka raw": gpt/1691-1691/Kuolajärvi-Kitka-bundle.md
+      - "Maanselkä":
+        - "Maanselkä fi": gpt/1691-1691/Maanselkä-bundle-gpt-fi.md
+        - "Maanselkä sv": gpt/1691-1691/Maanselkä-bundle-gpt-sv.md
+        - "Maanselkä raw": gpt/1691-1691/Maanselkä-bundle.md
+      - "Sodankylä":
+        - "Sodankylä fi": gpt/1691-1691/Sodankylä-bundle-gpt-fi.md
+        - "Sodankylä sv": gpt/1691-1691/Sodankylä-bundle-gpt-sv.md
+        - "Sodankylä raw": gpt/1691-1691/Sodankylä-bundle.md
+      - "Sompio-Keminkylä":
+        - "Sompio-Keminkylä fi": gpt/1691-1691/Sompio-Keminkylä-bundle-gpt-fi.md
+        - "Sompio-Keminkylä sv": gpt/1691-1691/Sompio-Keminkylä-bundle-gpt-sv.md
+        - "Sompio-Keminkylä raw": gpt/1691-1691/Sompio-Keminkylä-bundle.md
       - "raw": gpt/1691-1691/index-raw.md
     - "1692-1692": 
       - gpt/1692-1692/index.md
