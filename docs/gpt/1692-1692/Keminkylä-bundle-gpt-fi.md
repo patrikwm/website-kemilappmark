@@ -1,0 +1,3 @@
+Vuonna 1692, 24. helmikuuta, pidettiin lakituvissa Keminkylässä. Paikalla oli Kruunun käskynhaltija, arvostettu Jacob Graape, yhdessä lautamiesten Hans Hanssonin, Anders Olofssonin ja Thomas Ivarssonin kanssa. Tällöin julkaistiin kuninkaallisen majesteetin hyvin laaditut julistukset ja määräykset, jotka oli jo aiemmin julkaistu muissa tingspaikoissa.
+
+Henrich Persson haastoi Thomas Jöenssonin oikeuteen, koska tämä oli ottanut häneltä yhden poron hiihtoa varten, eikä hän ollut koskaan saanut sitä takaisin. Poro oli väitetysti kadonnut Thomasin toimien seurauksena, mitä Thomas ei voinut kiistää. Siksi päätettiin, että Thomas maksaa Henrich Perssonille neljä vaggia tai kaksi hopeariksiä mainitusta porosta.

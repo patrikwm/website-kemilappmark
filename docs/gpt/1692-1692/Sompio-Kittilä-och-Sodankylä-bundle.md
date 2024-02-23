@@ -1,0 +1,74 @@
+Anno 1692 den 22 Februari Höltz
+Laga tings medh Lappallmogen aff
+Sompio Kittilä och Sodankylä När
+warande Cronens Befallningzman
+Wälbetrodde Jacob Graape med eftterskrefne Tolfmen
+i Sompio
+Lars Matson. Johan Hansson. Anders Olofsson
+Sodankylä
+Anders Hansson Jöns Hansson. Unge Anders Persson.
+Anders Andersson. Per Jacobsson.
+Citrilla
+Olof Johansson, Nils Nillsson,
+Dato publicerades Åtskillige Kongl. Majestäts
+Placater och Ordningar, som widh de förre
+tings ställen Oppläsne ähro.
+Jöns Hansson i Sodankylä giorde sin Kyrkiewärde
+Eedh, wälförståendes att han skahl wara hoosen
+och säkia Kyrkians bästa och opkomst.
+Sodankyläbor beswära sigh öfwer några Österbottns
+karlar, som ähro sinnade att wåldsambligen
+Nedsättia och inbringa sigh på dheras ägor, Utan
+wederbörande Skattlappars lof och minne, warandes
+altdy deras tienstlige begiäran, det finge dhe
+tillståndh att taga theras befintlige Ägendomb under
+arrest, till nästa laga tings, hwilket denne
+Rätten them Jura natura Alexlimo till wijdare
+laga uthslagh där de volenter hädan eftter understede
+sigh på the ens landzliger och Fiskieryen att inträngia.
+Sådan tillspordes denne Lappallmoge, om dhe
+hafwa förnummit eller hört af någon Högt
+måls Saak, som hoos dhem hade kunnat passera
+ och sigh tilldraga. Eller och om dhe hade någre
+Andre twistige Ährender att angifwa? hwar
+till dee swarade, att dhe  dess Gudi lofisintet
+nodste af någon Högmåls Saak, eij heller af nöHwe
+modre trätor eller twistigheeter.
+Anno.
+Anno 1692 den 22 Februari Höltz
+Laga tings medh Lappallmogen aff
+Sompio Kittilä och Sodankylä När
+warande Cronens Befallningzman
+Wälbetrodde Jacob Graape med eftterskrefne Tolfmen
+i Sompio
+Lars Matson. Johan Hansson. Anders Olofsson
+Sodankylä
+Anders Hansson Jöns Hansson. Unge Anders Persson.
+Anders Andersson. Per Jacobsson.
+Citrilla
+Olof Johansson, Nils Nillsson,
+Dato publicerades Åtskillige Kongl. Majestäts
+Placater och Ordningar, som widh de förre
+tings ställen Oppläsne ähro.
+Jöns Hansson i Sodankylä giorde sin Kyrkiewärde
+Eedh, wälförståendes att han skahl wara hoosen
+och säkia Kyrkians bästa och opkomst.
+Sodankyläbor beswära sigh öfwer några Österbottns
+karlar, som ähro sinnade att wåldsambligen
+Nedsättia och inbringa sigh på dheras ägor, Utan
+wederbörande Skattlappars lof och minne, warandes
+altdy deras tienstlige begiäran, det finge dhe
+tillståndh att taga theras befintlige Ägendomb under
+arrest, till nästa laga tings, hwilket denne
+Rätten them Jura natura Alexlimo till wijdare
+laga uthslagh där de volenter hädan eftter understede
+sigh på the ens landzliger och Fiskieryen att inträngia.
+Sådan tillspordes denne Lappallmoge, om dhe
+hafwa förnummit eller hört af någon Högt
+måls Saak, som hoos dhem hade kunnat passera
+ och sigh tilldraga. Eller och om dhe hade någre
+Andre twistige Ährender att angifwa? hwar
+till dee swarade, att dhe  dess Gudi lofisintet
+nodste af någon Högmåls Saak, eij heller af nöHwe
+modre trätor eller twistigheeter.
+Anno.
