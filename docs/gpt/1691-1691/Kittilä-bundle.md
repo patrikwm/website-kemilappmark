@@ -1,3 +1,10 @@
+---
+tags:
+  - Kittilä
+  - raw
+  - bundle
+---
+
 - **Reference Code**: SE/RA/420422/02/E/E XI/E XI e/3966
 - **Dating**: 1691-1691
 - **Remark**: Västerbottens län nr 2. Innehåller även protokoll från Gotlands och Norrbottens län.
