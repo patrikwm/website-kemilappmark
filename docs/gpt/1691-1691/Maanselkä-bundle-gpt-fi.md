@@ -1,4 +1,12 @@
+- **Reference Code**: SE/RA/420422/02/E/E XI/E XI e/3966
+- **Dating**: 1691-1691
+- **Remark**: Västerbottens län nr 2. Innehåller även protokoll från Gotlands och Norrbottens län.
+- **Link**: [https://sok.riksarkivet.se/arkiv/mbQFlRibjqcKJG2bX401Y1](https://sok.riksarkivet.se/arkiv/mbQFlRibjqcKJG2bX401Y1)
+
+---
+
 **Vuonna 1691, 4. huhtikuuta,** pidettiin lailliset käräjät saamelaisten kanssa Maanselässä, läsnä olleen kruununvouti, luotettu Jacob Graape, seuraavien lautamiesten kanssa:
+
 - Johan Pesainen
 - Olof Pahulainen
 - Anders Pehrsson
@@ -18,19 +26,18 @@ Pehr Mustainen valitti Johan Karpanadelle niittypalasta Parassa, jonka hän väi
 
 Näin on yllä mainittu tarkastettu, tutkittu, todettu ja tuomittu, mikä todistetaan oikeuden puolesta.
 
-### Henkilöt
+**Henkilöt**
 
 1. **Jacob Graape** - Kruununvouti, vastaa Maanselän laillisten käräjien johtamisesta.
 
 2. **Lautamiehet, jotka osallistuivat käräjiin**:
-   - Johan Pesainen
-   - Olof Pahulainen
-   - Anders Pehrsson
-   - Pehr Häckinen
-   - Pehr Ikäpäivässon
-   - Ikäpäivä Matsson
-
-   Nämä henkilöt toimivat tuomareina tai paikallisina edustajina käräjillä.
+   
+    - Johan Pesainen
+    - Olof Pahulainen
+    - Anders Pehrsson
+    - Pehr Häckinen
+    - Pehr Ikäpäivässon
+    - Ikäpäivä Matsson
 
 3. **Henrich Jåkilainen** - Myöntää olevansa velkaa Henrich Hinderssonille rahaa ja lupaa maksaa takaisin.
 

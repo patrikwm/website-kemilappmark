@@ -1,4 +1,12 @@
+- **Reference Code**: SE/RA/420422/02/E/E XI/E XI e/3966
+- **Dating**: 1691-1691
+- **Remark**: Västerbottens län nr 2. Innehåller även protokoll från Gotlands och Norrbottens län.
+- **Link**: [https://sok.riksarkivet.se/arkiv/mbQFlRibjqcKJG2bX401Y1](https://sok.riksarkivet.se/arkiv/mbQFlRibjqcKJG2bX401Y1)
+
+---
+
 **År 1691, den 4 april,** hölls lagligt ting med samerna i Maanselkä, närvarande kronans befallningsman, den välbetrodde Jacob Graape, tillsammans med följande nämndemän:
+
 - Johan Pesainen
 - Olof Pahulainen
 - Anders Pehrsson
@@ -7,6 +15,7 @@
 - Ikäpäivä Matsson
 
 Då publicerades Kungliga Majestätets välformulerade plakat om barnamord, daterat den 15 november 1682.
+
 - Dito Högstbemälte Kungliga Majestätets plakat och förordning om exekutionsväsendet, från den 21 augusti 1684.
 - Slutligen lästes högstbemälte Kungliga Majestätets nådigaste plakat om förebyggande och släckning av skogsbränder, daterat i Stockholm den 10 november 1690.
 
@@ -18,19 +27,18 @@ Pehr Mustainen klagade till Johan Karpanade om en äng i Para som han påstod ti
 
 Därmed har det ovanstående varit granskat, undersökt, funnit och dömt, vilket intygas på rättens vägnar.
 
-### Personer
+**Personer**
 
 1. **Jacob Graape** - Kronans befallningsman, ansvarig för att leda det lagliga tinget i Maanselkä.
 
 2. **Nämndemän som deltog i tinget**:
-   - Johan Pesainen
-   - Olof Pahulainen
-   - Anders Pehrsson
-   - Pehr Häckinen
-   - Pehr Ikäpäivässon
-   - Ikäpäivä Matsson
-
-   Dessa personer fungerar som domare eller lokala representanter under tinget.
+    
+    - Johan Pesainen
+    - Olof Pahulainen
+    - Anders Pehrsson
+    - Pehr Häckinen
+    - Pehr Ikäpäivässon
+    - Ikäpäivä Matsson
 
 3. **Henrich Jåkilainen** - Erkänner att han är skyldig Henrich Hindersson pengar och lovar att betala tillbaka.
 
@@ -44,4 +52,4 @@ Därmed har det ovanstående varit granskat, undersökt, funnit och dömt, vilke
 
 8. **Johan Karpanade** - Personen som Pehr Mustainen riktar sitt klagomål mot.
 
-9. **Tolvmännen** - De verkar som vittnen eller juridiska medlare i frågan om ängsstycket mellan Pehr Mustainen och Johan Karpanade.
+9.  **Tolvmännen** - De verkar som vittnen eller juridiska medlare i frågan om ängsstycket mellan Pehr Mustainen och Johan Karpanade.

@@ -1,4 +1,12 @@
+- **Reference Code**: SE/RA/420422/02/E/E XI/E XI e/3966
+- **Dating**: 1691-1691
+- **Remark**: Västerbottens län nr 2. Innehåller även protokoll från Gotlands och Norrbottens län.
+- **Link**: [https://sok.riksarkivet.se/arkiv/mbQFlRibjqcKJG2bX401Y1](https://sok.riksarkivet.se/arkiv/mbQFlRibjqcKJG2bX401Y1)
+
+---
+
 **År 1691 den 15 januari** hölls lagligt ting i Kemi lappmark, i Sompio och Kemikylä, närvarande kronans befallningsman Jacob Graape, tillsammans med nämndemännen:
+
 - Henrich Hansson
 - Johan Hansson
 - Anders Olofsson
@@ -7,6 +15,7 @@
 - Hans Hansson i Kemikylä.
 
 Samma dag publicerades Kungliga Majestätets välformulerade plakat om barnamord, daterat den 15 november 1684.
+
 - Dito Kungliga Majestätets nådigaste plakat och förordning om exekutionsväsendet, daterat den 21 augusti 1684.
 - Dito Kungliga Majestäts plakat om skogsbränder och deras förekomst och släckning, daterat i Stockholm den 20 november 1690.
 
@@ -17,19 +26,18 @@ Inför rätten framträdde två finnar, Påhl Pelconen och Nils Perttunen, som k
 
 Mellan Mårten Pehrsson och hans granne Jöns Larsson gjordes en överenskommelse, och likaså mellan Påhl Pelconen och Nils Perttunen, att jämka och lösa tvisten om de oskiftade ängstegarna de tvistar om.
 
-### Personer
+**Personer**
 
 1. **Jacob Graape** - Kronans befallningsman, närvarande vid lagliga ting i Kemi Lappmarker, Sompio och Kemikylä.
 
 2. **Nämndemän vid Tinget**:
-   - Henrich Hansson
-   - Johan Hansson
-   - Anders Olofsson
-   - Lars Mattsson
-   - Pehr Olofsson
-   - Hans Hansson i Kemikylä
 
-   Dessa individer tjänar som lokala juridiska representanter eller domare vid tinget.
+    - Henrich Hansson
+    - Johan Hansson
+    - Anders Olofsson
+    - Lars Mattsson
+    - Pehr Olofsson
+    - Hans Hansson i Kemikylä
 
 3. **Allmogen** - Lokalbefolkningen eller de vanliga invånarna i området, som diskuteras i kontexten av högmålssaker och deras själasörjare (pastor och kaplan).
 

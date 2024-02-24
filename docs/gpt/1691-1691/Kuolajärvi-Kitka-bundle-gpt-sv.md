@@ -1,4 +1,12 @@
+- **Reference Code**: SE/RA/420422/02/E/E XI/E XI e/3966
+- **Dating**: 1691-1691
+- **Remark**: Västerbottens län nr 2. Innehåller även protokoll från Gotlands och Norrbottens län.
+- **Link**: [https://sok.riksarkivet.se/arkiv/mbQFlRibjqcKJG2bX401Y1](https://sok.riksarkivet.se/arkiv/mbQFlRibjqcKJG2bX401Y1)
+
+---
+
 Kronans befallningsman, den välbetrodde Jacob Graape, tillsammans med nämnden från Kuolajärvi:
+
 - Thomas Michelsson
 - Anders Michelsson
 - Anders Pehrsson

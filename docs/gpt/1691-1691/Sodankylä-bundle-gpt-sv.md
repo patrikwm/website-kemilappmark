@@ -1,4 +1,12 @@
+- **Reference Code**: SE/RA/420422/02/E/E XI/E XI e/3966
+- **Dating**: 1691-1691
+- **Remark**: Västerbottens län nr 2. Innehåller även protokoll från Gotlands och Norrbottens län.
+- **Link**: [https://sok.riksarkivet.se/arkiv/mbQFlRibjqcKJG2bX401Y1](https://sok.riksarkivet.se/arkiv/mbQFlRibjqcKJG2bX401Y1)
+
+---
+
 **År 1691 den 8 januari** hölls lagligt ting i Kemi lappmark och Sodankylä, närvarande kronans befallningsman, den välbetrodde Jacob Graape, tillsammans med nämndemännen:
+
 - Pehr Pehrsson
 - Gamle Anders Hansson
 - Unge Anders Hansson
@@ -9,6 +17,7 @@
 - Matts Hansson
 
 Samma dag publicerades Hans Kungliga Majestäts allernådigaste plakat om barnamord, daterat den 15 november 1684.
+
 - Dito Kungliga Majestäts allernådigaste plakat och förordning om exekutionsväsendet, från den 21 augusti 1682.
 - Dito Kungliga Majestäts plakat om skogsbränder samt deras förekomst och släckning, daterat i Stockholm den 10 november 1690.
 
@@ -16,21 +25,20 @@ Allmogen uppmanades och förmanades att omgående uppföra prästgården till de
 
 Länsmannen Johan Pehrsson klagade över Gamle Anders Hansson för att ha skadat och påverkat hans skatteland och vatten vid Kittis gruva, vilket Anders inte helt kunde förneka. Därför beslöts och avslutades att Anders Hansson framöver inte ska få vistas och vara vid nämnda Kittis gruva längre än från våren till Pädersmässodagen, vilket har varit brukligt och tillåtet sedan gammalt. Detta ska hädanefter strikt hållas med honom och alla andra som vistas där, om vilket de enhälligt var överens och band sig vid med handslag.
 
-### Personer
+**Personer**
 
 1. **Jacob Graape** - Kronans befallningsman, närvarande vid lagliga ting i Kemi lappmark och Sodankylä.
 
 2. **Nämndemän vid Tinget**:
-   - Pehr Pehrsson
-   - Gamle Anders Hansson
-   - Unge Anders Hansson
-   - Anders Andersson
-   - Hans Andersson
-   - Jöns Hansson
-   - Gamle Hans Andersson
-   - Matts Hansson
 
-   Dessa personer tjänar som lokala domare eller juridiska representanter vid tinget.
+    - Pehr Pehrsson
+    - Gamle Anders Hansson
+    - Unge Anders Hansson
+    - Anders Andersson
+    - Hans Andersson
+    - Jöns Hansson
+    - Gamle Hans Andersson
+    - Matts Hansson
 
 3. **Allmogen** - De lokala invånarna i Kemi lappmark och Sodankylä, som blir uppmanade att bygga upp prästgården.
 
