@@ -1,4 +1,11 @@
-Tammikuun 5. päivänä vuonna 1691 pidettiin Kemissä Lapinlaakson ja Kittilän torilla lainsäätäjän kokous. Paikalla oli kruunun käskynhaltija kunnioitettu Jacob Graape ja seuraavat lautamiehet:
+- **Reference Code**: SE/RA/420422/02/E/E XI/E XI e/3966
+- **Dating**: 1691-1691
+- **Remark**: Västerbottens län nr 2. Innehåller även protokoll från Gotlands och Norrbottens län.
+- **Link**: [https://sok.riksarkivet.se/arkiv/mbQFlRibjqcKJG2bX401Y1](https://sok.riksarkivet.se/arkiv/mbQFlRibjqcKJG2bX401Y1)
+
+---
+
+**Tammikuun 5. päivänä vuonna 1691** pidettiin Kemissä Lapinlaakson ja Kittilän torilla lainsäätäjän kokous. Paikalla oli kruunun käskynhaltija kunnioitettu Jacob Graape ja seuraavat lautamiehet:
 
 - Olof Johansson
 - Nils Andersson
@@ -29,18 +36,25 @@ Lautamiehet Nils Nilsson ja Nils Andersson valittiin välittäjiksi Anders Nilss
 
 Erik Erichsson Jääskö valitti leski Kristin Nilsdotteria vastaan, että tämä oli laittomasti ottanut omistukseensa Sikaniitty-niityn kuorman, joka kuului hänelle. Leski väitti, että hän oli saanut niityn lahjaksi hänen ollessaan morsian ja hänen hääjuhlaansa pidettiin. Lautamies Olof Johansson, joka oli läsnä hänen häissään, todisti, että tätä niittyä ei oltu koskaan annettu hänelle lahjaksi kyseisissä häissä, ja että se oli epärehellinen tarina; Siksi tuomio vahvistaa, että Erik Jääskö saa pitää mainitun Sikaniitty-niityn ilman moitetta. Mutta korvaukseksi lesken tekemästä työstä, raivaamisesta, tuomio pitää kohtuullisena, että Erik Eriksson maksaa hänelle kolme hopeataaleria.
 
-### Henkilöt:
-- **Jacob Graape**: Kruunun käskynhaltija
-- **Lautamiehet (jury)**: Olof Johansson, Nils Andersson, Nils Nilsson, Olof Nilsson, Nils Olofsson, Pål Olofsson
-- **Pastori**: Herra Henrik Cajanus
-- **Kappalainen**: Herra Henrik Carlmius
-- **Kansa**: Ne, jotka olivat paikalla ja vastasivat Kittilästä kysymyksiin
-- **Matts Pehrsson Bulli**: Pål Olofssonin naapuri, joka valitti hänestä
-- **Pål Olofsson**: Matts Pehrsson Bullin naapuri, joka on syytetty väkivallasta
-- **Nils Olofsson**: Henkilö, jolla on vaatimuksia naapuriaan Olof Hanssonia vastaan
-- **Olof Hansson**: Nils Olofssonin naapuri ja Ackuliwuoma-omistuksen omistaja
-- **Lautamiehet**: Olof Johansson, Nils Nilsson, Nils Andersson
-- **Anders Nilsson**: Osapuoli sovitteluprosessissa liittyen perintökiistaan Olof Johanssonia vastaan
-- **Olof Johansson**: Osapuoli sovitteluprosessissa liittyen perintökiistaan Anders Nilssonia vastaan
-- **Erik Erichsson Jääskö**: Henkilö, joka valittaa leski Kristin Nilsdotterista
-- **Kristin Nilsdotter**: Leski, joka on syytetty omistuksen ottamisesta Sikaniitty-niitystä
+**Henkilöt:**
+
+1. **Jacob Graape**: Kruunun käskynhaltija
+2. **Lautamiehet (jury)**
+    - Olof Johansson
+    - Nils Andersson
+    - Nils Nilsson
+    - Olof Nilsson
+    - Nils Olofsson
+    - Påhl Olofsson
+3. **Pastori**: Herra Henrik Cajanus
+4. **Kappalainen**: Herra Henrik Carlmius
+5. **Kansa**: Ne, jotka olivat paikalla ja vastasivat Kittilästä kysymyksiin
+6. **Matts Pehrsson Bulli**: Pål Olofssonin naapuri, joka valitti hänestä
+7. **Pål Olofsson**: Matts Pehrsson Bullin naapuri, joka on syytetty väkivallasta
+8. **Nils Olofsson**: Henkilö, jolla on vaatimuksia naapuriaan Olof Hanssonia vastaan
+9.  **Olof Hansson**: Nils Olofssonin naapuri ja Ackuliwuoma-omistuksen omistaja
+10. **Lautamiehet**: Olof Johansson, Nils Nilsson, Nils Andersson
+11. **Anders Nilsson**: Osapuoli sovitteluprosessissa liittyen perintökiistaan Olof Johanssonia vastaan
+12. **Olof Johansson**: Osapuoli sovitteluprosessissa liittyen perintökiistaan Anders Nilssonia vastaan
+13. **Erik Erichsson Jääskö**: Henkilö, joka valittaa leski Kristin Nilsdotterista
+14. **Kristin Nilsdotter**: Leski, joka on syytetty omistuksen ottamisesta Sikaniitty-niitystä

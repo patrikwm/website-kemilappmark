@@ -1,5 +1,14 @@
+- **Reference Code**: SE/RA/420422/02/E/E XI/E XI e/3966
+- **Dating**: 1691-1691
+- **Remark**: Västerbottens län nr 2. Innehåller även protokoll från Gotlands och Norrbottens län.
+- **Link**: [https://sok.riksarkivet.se/arkiv/mbQFlRibjqcKJG2bX401Y1](https://sok.riksarkivet.se/arkiv/mbQFlRibjqcKJG2bX401Y1)
+
+---
+
+
 **Kemi Lappmark**
-År 1691 den 5 januari hölls lagligt ting i Kemi lappmark och på Kittilä marknadsplats, närvarande kronans befallningsman, den välbetrodde Jacob Graape, tillsammans med följande nämndemän:
+**År 1691 den 5 januari** hölls lagligt ting i Kemi lappmark och på Kittilä marknadsplats, närvarande kronans befallningsman, den välbetrodde Jacob Graape, tillsammans med följande nämndemän:
+
 - Olof Johansson
 - Nils Andersson
 - Nils Nilsson
@@ -8,6 +17,7 @@
 - Påhl Olofsson
 
 Samma dag publicerades Kungliga Majestätets nådigaste plakat om barnamord, daterat den 15 november 1684.
+
 - Dito Kungliga Majestätets nådigaste plakat och förordning om exekutionsväsendet, från den 21.
 - Dito plakat om skogsbränder, daterat den 10 november 1690.
 
@@ -29,19 +39,17 @@ Erik Erichsson Jääskö klagar över änkan Kristin Nilsdotter för att hon tag
 
 aniitty om ett lass, som tillhör honom. Enkan påstår att hon fått ängen som gåva eftersom den gavs till henne när hon var brud och hennes gästabud hölls. Tolvmannen Olof Johansson, som var närvarande på hennes bröllop, vittnade att ängen aldrig gavs till henne som gåva under bröllopet, utan att detta är en osann berättelse. Därför erkänner rätten att Erik Jääskö får behålla den omtvistade ängen Sikaniitty. Men för det arbete änkan lagt ner på ängen genom att röja den, finner rätten det skäligt att Erik Eriksson betalar henne tre daler kopparmynt.
 
-### Personer
+**Personer**
 
 1. **Jacob Graape** - Kronans befallningsman, närvarande vid lagliga ting i Kemi lappmark och Kittilä marknadsplats.
 
 2. **Nämndemän vid Tinget**:
-   - Olof Johansson
-   - Nils Andersson
-   - Nils Nilsson
-   - Olof Nilsson
-   - Nils Olofsson
-   - Påhl Olofsson
-
-   Dessa personer tjänar som lokala juridiska representanter eller domare vid tinget.
+    - Olof Johansson
+    - Nils Andersson
+    - Nils Nilsson
+    - Olof Nilsson
+    - Nils Olofsson
+    - Påhl Olofsson
 
 3. **Allmogen i Kittilä** - De lokala invånarna i Kittilä, som tillfrågades om deras kyrkoherde och kaplan.
 
