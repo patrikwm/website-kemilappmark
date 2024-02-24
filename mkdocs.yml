@@ -4,6 +4,8 @@ extra_css:
   - stylesheets/extra.css
 
 markdown_extensions:
+  - attr_list
+  - md_in_html
   - pymdownx.highlight:
       anchor_linenums: true
       line_spans: __span
@@ -157,35 +159,42 @@ nav:
         - "Sompio-Keminkylä fi": gpt/1691-1691/Sompio-Keminkylä-bundle-gpt-fi.md
         - "Sompio-Keminkylä sv": gpt/1691-1691/Sompio-Keminkylä-bundle-gpt-sv.md
         - "Sompio-Keminkylä raw": gpt/1691-1691/Sompio-Keminkylä-bundle.md
-      - "raw": gpt/1691-1691/index-raw.md
     - "1692-1692": 
-      - gpt/1692-1692/index.md
-      - gpt/1692-1692/Enareby-bundle-gpt-fi.md
-      - gpt/1692-1692/Enareby-bundle-gpt-sv.md
-      - gpt/1692-1692/Enareby-bundle.md
-      - gpt/1692-1692/Keminkylä-bundle-gpt-fi.md
-      - gpt/1692-1692/Keminkylä-bundle-gpt-sv.md
-      - gpt/1692-1692/Keminkylä-bundle.md
-      - gpt/1692-1692/Kitka-bundle-gpt-fi.md
-      - gpt/1692-1692/Kitka-bundle-gpt-sv.md
-      - gpt/1692-1692/Kitka-bundle.md
-      - gpt/1692-1692/Kuolajärvi-bundle-gpt-fi.md
-      - gpt/1692-1692/Kuolajärvi-bundle-gpt-sv.md
-      - gpt/1692-1692/Kuolajärvi-bundle.md
-      - gpt/1692-1692/Manselkä-bundle-gpt-fi.md
-      - gpt/1692-1692/Manselkä-bundle-gpt-sv.md
-      - gpt/1692-1692/Manselkä-bundle.md
-      - gpt/1692-1692/Sompio-Kittilä-och-Sodankylä-bundle-gpt-fi.md
-      - gpt/1692-1692/Sompio-Kittilä-och-Sodankylä-bundle-gpt-sv.md
-      - gpt/1692-1692/Sompio-Kittilä-och-Sodankylä-bundle.md
-      - gpt/1692-1692/index-fi.md
-      - gpt/1692-1692/index-raw.md
+      - Index: gpt/1692-1692/index-fi.md
+      - "Enareby": 
+        - gpt/1692-1692/index.md
+        - gpt/1692-1692/Enareby-bundle-gpt-fi.md
+        - gpt/1692-1692/Enareby-bundle-gpt-sv.md
+        - gpt/1692-1692/Enareby-bundle.md
+      - "Keminkylä":
+        - gpt/1692-1692/Keminkylä-bundle-gpt-fi.md
+        - gpt/1692-1692/Keminkylä-bundle-gpt-sv.md
+        - gpt/1692-1692/Keminkylä-bundle.md
+      - "Kitka":
+        - gpt/1692-1692/Kitka-bundle-gpt-fi.md
+        - gpt/1692-1692/Kitka-bundle-gpt-sv.md
+        - gpt/1692-1692/Kitka-bundle.md
+      - "Kuolajärvi":
+        - gpt/1692-1692/Kuolajärvi-bundle-gpt-fi.md
+        - gpt/1692-1692/Kuolajärvi-bundle-gpt-sv.md
+        - gpt/1692-1692/Kuolajärvi-bundle.md
+      - "Maanselkä": 
+        - gpt/1692-1692/Manselkä-bundle-gpt-fi.md
+        - gpt/1692-1692/Manselkä-bundle-gpt-sv.md
+        - gpt/1692-1692/Manselkä-bundle.md
+      - "Sompio Kittilä Sodankylä":
+        - gpt/1692-1692/Sompio-Kittilä-och-Sodankylä-bundle-gpt-fi.md
+        - gpt/1692-1692/Sompio-Kittilä-och-Sodankylä-bundle-gpt-sv.md
+        - gpt/1692-1692/Sompio-Kittilä-och-Sodankylä-bundle.md
+
     - "1693-1693": 
       - gpt/1693-1693/index.md
-      - gpt/1693-1693/Kittilä-bundle-gpt-sv.md
+      - "Kittilä":
+        - gpt/1693-1693/Kittilä-bundle-gpt-sv.md
     - "1694-1694": 
       - gpt/1694-1694/index.md
-      - gpt/1694-1694/Kittilä-bundle-gpt-sv.md
+      - "Kittilä":
+        - gpt/1694-1694/Kittilä-bundle-gpt-sv.md
 
 
   - Raw:
@@ -1427,3 +1436,4 @@ nav:
       - "Sida 577": raw/1749-1749/1749-Sida-577.md
       - "Sida 578": raw/1749-1749/1749-Sida-578.md
       - "Sida 579": raw/1749-1749/1749-Sida-579.md
+  - changelog: changelog/index.md
